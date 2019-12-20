@@ -1,2 +1,2 @@
 # SW_Expert
-Software Expert Academy
+![swExpertAcademy](swExpertAcademy.jpg)
